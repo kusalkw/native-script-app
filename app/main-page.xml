@@ -1,0 +1,10 @@
+<Page loaded="onLoaded">
+    <Page.actionBar>
+        <ActionBar title="Actionbar"/>
+    </Page.actionBar>
+
+    <GridLayout>
+        <GridLayout id="game" />
+        <Label id="meta" text="Something"/>
+    </GridLayout>
+</Page>

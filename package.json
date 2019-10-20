@@ -1,0 +1,24 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.mobileapp",
+    "tns-android": {
+      "version": "6.1.1"
+    },
+    "tns-ios": {
+      "version": "6.1.0"
+    }
+  },
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "nativescript-physics-js": "^2.0.1",
+    "nativescript-theme-core": "~1.0.6",
+    "tns-core-modules": "~6.1.0"
+  },
+  "devDependencies": {
+    "nativescript-dev-webpack": "~1.2.0"
+  },
+  "gitHead": "e9af7b54b243e55ef28e4610c4ef8c83837d86c0",
+  "readme": "NativeScript Application"
+}
